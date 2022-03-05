@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shankarrajugiri
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me: mail@ shankarrajgiri0@gmail.com
 <!---
